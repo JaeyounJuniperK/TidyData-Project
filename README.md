@@ -1,4 +1,4 @@
-# TidyData-Project
+# Tidy Data Project
 The notebook aims to demonstrate how to import, tidy, and visualize data from the [**2008 Summer Olympic Games**](https://edjnet.github.io/OlympicsGoNUTS/2008/). It walks through the process of reshaping the original dataset (which is in a wide format) into a long format that adheres to the principles of tidy data. This transformation makes the data easier to filter, group, and analyze. 
 
 **What is Tidy Data**
@@ -34,6 +34,7 @@ The dataset used in this project is the 2008 Beijing Olympics Medalists Dataset.
 ![image](https://github.com/user-attachments/assets/deba78f9-a647-4e1c-90ec-b88905e3007c)
 
 **References:**
+
 [**Tidy Data Paper by Hadley Wickham**](https://vita.had.co.nz/papers/tidy-data.pdf)
 
 [**Pandas Documentation**](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
