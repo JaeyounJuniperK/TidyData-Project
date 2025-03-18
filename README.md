@@ -35,6 +35,7 @@ The dataset used in this project is the 2008 Beijing Olympics Medalists Dataset.
 
 **References:**
 [**Tidy Data Paper by Hadley Wickham**](https://vita.had.co.nz/papers/tidy-data.pdf)
+
 [**Pandas Documentation**](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 Feel free to contribute to this project or suggest improvements. Happy analyzing!
