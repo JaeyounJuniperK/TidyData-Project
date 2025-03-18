@@ -21,8 +21,8 @@ Ensure you have the following libraries installed before running the notebook:
 (To install these libraries, use pip: pip install pandas matplotlib seaborn)
 
 *Running the Notebook*
-- Clone the repository: git clone https://github.com/username/tidy-data-project.git
-- Navigate to the project directory: cd tidy-data-project
+- Clone the repository: git clone https://github.com/username/Tidydata-Project.git
+- Navigate to the project directory: cd Tidydata-Project
 - Launch Jupyter Notebook: jupyter notebook
 - Open the notebook file (TidyData-Project.ipynb) and run the cells to reproduce the analysis and visualizations.
 
